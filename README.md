@@ -6,7 +6,7 @@
 3. Ankiban válaszd a **Fájl → Importálás** opciót, és nyisd meg a paklit.  
 
 ## Témakörök
-- 25/26 winter semester
+- 25/26 summer semester
     - DBS - Adatbázis információs rendszerek
     
 - 25/26 winter semester
