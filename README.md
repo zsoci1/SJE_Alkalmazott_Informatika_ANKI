@@ -18,7 +18,7 @@
     - MA2 - Matematika informatikusoknak 2
     - TEI - Elméleti informatika
  
-  - 25/26 winter semester
+- 25/26 winter semester
       - MA3 - Matematika informatikusoknak 3
       - PR3 - Programozás 3 - Programozás Windows OR alatt
       - TWS - Weboldalak készítése
