@@ -6,7 +6,7 @@
 3. Ankiban válaszd a **Fájl → Importálás** opciót, és nyisd meg a paklit.  
 
 ## Témakörök
-- 2. évfolyam
+- 2_evfolyam
     - 25/26 summer semester
         - DBS - Adatbázis információs rendszerek
         
@@ -16,7 +16,7 @@
         - TWS - Weboldalak készítése
         - UMS - Bevezetés a modellezés és szimulációba
 
-- 1. évfolyam
+- 1_evfolyam
     - 24/25 summer semester
         - DM1 - Diszkrét matematika 1 - halmazelmélet, kombinatorika, Boole-algebra
         - PR2 - Programozás 2 - Programozás és adatstruktúrák
