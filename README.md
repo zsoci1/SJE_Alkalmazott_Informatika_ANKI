@@ -15,18 +15,18 @@
     - TWS - Weboldalak készítése
     - UMS - Bevezetés a modellezés és szimulációba
 
+- 24/25 summer semester
+    - DM1 - Diszkrét matematika 1 - halmazelmélet, kombinatorika, Boole-algebra
+    - PR2 - Programozás 2 - Programozás és adatstruktúrák
+    - MA2 - Matematika informatikusoknak 2
+    - TEI - Elméleti informatika
+
 - 24/25 winter semester
     - MIT - Anyagok és technológiák informatikusok számára
     - PR1 - Programozás 1 - Algoritmizáció és programozás
     - UDI - Bevezetés az informatikába
     - PHW - Számítógépes hardver
 
-- 24/25 summer semester
-    - DM1 - Diszkrét matematika 1 - halmazelmélet, kombinatorika, Boole-algebra
-    - PR2 - Programozás 2 - Programozás és adatstruktúrák
-    - MA2 - Matematika informatikusoknak 2
-    - TEI - Elméleti informatika
- 
 ## Megjegyzések
 - A paklik a saját jegyzeteim alapján készültek.
 - Nem tartalmazzák az összes tantárgyat.
