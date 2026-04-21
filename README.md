@@ -6,6 +6,15 @@
 3. Ankiban válaszd a **Fájl → Importálás** opciót, és nyisd meg a paklit.  
 
 ## Témakörök
+- 25/26 winter semester
+    - DBS - Adatbázis információs rendszerek
+    
+- 25/26 winter semester
+    - MA3 - Matematika informatikusoknak 3
+    - PR3 - Programozás 3 - Programozás Windows OR alatt
+    - TWS - Weboldalak készítése
+    - UMS - Bevezetés a modellezés és szimulációba
+
 - 24/25 winter semester
     - MIT - Anyagok és technológiák informatikusok számára
     - PR1 - Programozás 1 - Algoritmizáció és programozás
@@ -18,16 +27,6 @@
     - MA2 - Matematika informatikusoknak 2
     - TEI - Elméleti informatika
  
-- 25/26 winter semester
-    - MA3 - Matematika informatikusoknak 3
-    - PR3 - Programozás 3 - Programozás Windows OR alatt
-    - TWS - Weboldalak készítése
-    - UMS - Bevezetés a modellezés és szimulációba
-
-- 25/26 winter semester
-    - DBS - Adatbázis információs rendszerek
-
-
 ## Megjegyzések
 - A paklik a saját jegyzeteim alapján készültek.
 - Nem tartalmazzák az összes tantárgyat.
