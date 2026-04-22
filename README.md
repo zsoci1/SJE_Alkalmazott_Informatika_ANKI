@@ -9,6 +9,7 @@
 - 2_evfolyam
     - 25/26 summer semester
         - DBS - Adatbázis információs rendszerek
+        - DM2 - Diszkrét matematika 2 - Gráfalgoritmusok
         
     - 25/26 winter semester
         - MA3 - Matematika informatikusoknak 3
