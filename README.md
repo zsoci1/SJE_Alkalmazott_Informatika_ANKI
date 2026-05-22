@@ -10,6 +10,8 @@
     - 25/26 summer semester
         - DBS - Adatbázis információs rendszerek
         - DM2 - Diszkrét matematika 2 - Gráfalgoritmusok
+        - APO - Számítógépes architektúrák
+        - PPR - Processzorok programozása - Assembler
         
     - 25/26 winter semester
         - MA3 - Matematika informatikusoknak 3
